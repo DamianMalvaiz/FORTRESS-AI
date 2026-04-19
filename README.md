@@ -177,7 +177,7 @@ Advanced Infrastructure Administration · Big Data Technologies · Data Center I
 
 ## Author
 
-**Ángel Damián Malvaiz González**  
+**Angel Damian Malvaiz González**  
 Dual student — Ingeniería en Redes Inteligentes y Ciberseguridad  
 Continental Tire IT Department — L1/L2 National Support  
 Toluca, México

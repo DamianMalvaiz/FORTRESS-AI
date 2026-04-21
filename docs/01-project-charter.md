@@ -9,7 +9,7 @@
 | **Código de proyecto** | FORTRESS-AI-2026 |
 | **Versión del documento** | 1.0 |
 | **Fecha de emisión** | 21 de abril de 2026 |
-| **Autor / Project Lead** | Ángel Damián Malvaiz González |
+| **Autor / Project Lead** | Angel Damian Malvaiz González |
 | **Institución académica** | Universidad Tecnológica del Valle de Toluca (UTVT) |
 | **Programa** | Ingeniería en Redes Inteligentes y Ciberseguridad |
 | **Duración prevista** | 12 meses (Abril 2026 — Abril 2027) |
@@ -288,7 +288,7 @@ El proyecto será considerado exitoso si al cumplirse los 12 meses:
 
 | Versión | Fecha | Autor | Cambios |
 |---|---|---|---|
-| 1.0 | 2026-04-21 | Ángel Damián Malvaiz González | Emisión inicial del Project Charter |
+| 1.0 | 2026-04-21 | Angel Damian Malvaiz González | Emisión inicial del Project Charter |
 
 ---
 

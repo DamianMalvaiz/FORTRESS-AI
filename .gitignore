@@ -1,0 +1,49 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (para Fase 2+)
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.venv
+
+# Node (por si usas algo con JS)
+node_modules/
+
+# Drawio backups
+*.drawio.bkp
+
+# Logs
+*.log
+logs/
+
+# Sensitive data — CRÍTICO en proyecto de ciberseguridad
+*.pem
+*.key
+*_credentials*
+*.p12
+*.pfx
+.secrets/
+secrets.yml
+id_rsa*
+id_ed25519*
+
+# AWS
+.aws/
+*.pem
+
+# Ansible sensitive
+*.vault
+*_vault.yml

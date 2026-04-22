@@ -622,8 +622,8 @@ Cualquiera de estas evoluciones se documentaría como un **ADR (Architecture Dec
 
 | Versión | Fecha | Autor | Cambios |
 |---|---|---|---|
-| 1.0 | 2026-04-21 | Ángel Damián Malvaiz González | Emisión inicial del diseño de red |
-| 2.0 | 2026-04-21 | Ángel Damián Malvaiz González | Alineación con doc 03 (Reality Gap). Título cambiado a "Logical Network Design". Aclaración sobre VLAN IDs descriptivas vs 802.1Q real. Referencias cruzadas a doc 03. Nuevas secciones: 7.4 (rol de pfSense), 10.4 (nombres bridges KVM), 12.3 (evolución futura). Ampliadas secciones 1, 4.2 y 11 con contexto de simulación lógica. |
+| 1.0 | 2026-04-21 | Angel Damian Malvaiz González | Emisión inicial del diseño de red |
+| 2.0 | 2026-04-21 | Angel Damian Malvaiz González | Alineación con doc 03 (Reality Gap). Título cambiado a "Logical Network Design". Aclaración sobre VLAN IDs descriptivas vs 802.1Q real. Referencias cruzadas a doc 03. Nuevas secciones: 7.4 (rol de pfSense), 10.4 (nombres bridges KVM), 12.3 (evolución futura). Ampliadas secciones 1, 4.2 y 11 con contexto de simulación lógica. |
 
 ---
 
